@@ -13,7 +13,7 @@
     <releaseNotes>This release contains the following changes...</releaseNotes>
   </metadata>
   <files>
-  <file src="install\*[Version]_Install.zip" target="install" />  
+  <file src="install\*Version_Install.zip" target="install" />  
 </files>
   
 </package>
