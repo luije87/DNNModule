@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Sample.$suffix$</id>
+	<version>$version$</version>
+    <title>My Title</title>
+    <authors>Luis.acosta</authors>
+    <owners>Your name</owners>
+    <licenseUrl>http://yourcompany.com</licenseUrl>
+    <projectUrl>http://yourcompany.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A sample project</description>
+    <releaseNotes>This release contains the following changes...</releaseNotes>
+  </metadata>
+  <files>
+  <file src="install\*Install.zip" target="install" />  
+</files>
+  
+</package>
